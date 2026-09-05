@@ -1,9 +1,9 @@
-# Shirin-DSML
+# Omair-DSML
 
 Mini project for **Data Science and Machine Learning**.
 
-**Student:** Shirin Bhattacharjee  
-**Registration number:** Ra2411056030047
+**Student:** Omair Shahid 
+**Registration number:** Ra2411056030039
 
 ## Project
 
